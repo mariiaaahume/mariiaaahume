@@ -1,18 +1,29 @@
-# Hey there! 👋
+**Hey there! 👋**
 
-I’m Maria Hume, a Product Designer based in Madrid, Spain.
+I’m [Maria](YOUR_LINKEDIN_URL), a Product Designer based in Madrid.
 
-I design digital products and brand experiences, especially where AI, ecommerce, and complex customer journeys meet. I like taking an early idea, figuring out how it should work, and turning it into a clear flow, a thoughtful prototype, and a polished interface.
+I turn ideas into useful digital products, from understanding the problem and shaping user journeys to prototyping and refining the experience.
 
-I’ve designed an AI product from its first concept through MVP validation, worked on conversational experiences for Meliá, and shaped digital journeys for MediaMarkt and Mahou San Miguel. More recently, I’ve been deep in Shopify, improving an ecommerce experience from the storefront to loyalty and retention.
+Right now, I’m exploring AI tools to create functional 0→1 solutions, mainly for the web. I enjoy taking an idea from its first sketch to something people can actually use.
 
-My favorite tools are Figma, Framer, Shopify, and Liquid. I also use AI tools to explore ideas, prototype, and help bring things to life.
+**Tools & Tech**
 
-Before product design, I studied Fine Arts and Multimedia & Digital Arts and worked in graphic design, branding, and illustration. I speak Spanish and Catalan, use English at B2 level, and I’m learning Arabic.
+- Figma and Framer
+- Shopify
+- Claude Code and ChatGPT
+- Adobe Creative Cloud
+
+**A Bit About Me**
+
+- 🧘 I love yoga
+- 📚 I’m always happy with a good book
+- 🐕 I have a Shiba Inu
+- 📍 Based in Madrid, Spain
+
+**Find Me**
 
 I’m open to remote opportunities and relocation. If you’re working on a thoughtful product, [say hi](mailto:mariiaaahume@gmail.com)!
 
-**Fun facts:** I’ve studied in Ireland, I’m happiest when visual craft and product thinking come together, and I can happily spend far too long refining the details of an interface.
 <!--
 **mariiaaahume/mariiaaahume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
